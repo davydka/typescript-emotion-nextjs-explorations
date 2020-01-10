@@ -11,5 +11,8 @@
   "dependencies": {
     "axios": "^0.19.1",
     "ts-node": "^8.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
   }
 }
